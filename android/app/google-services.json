@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882942158867",
+    "project_id": "plantdec-af5f5",
+    "storage_bucket": "plantdec-af5f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882942158867:android:2286567565c029f4dbf7e6",
+        "android_client_info": {
+          "package_name": "com.example.plant_dec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOK4XZeixLnM0T4_k6VzrGrYSTu4gVvrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
